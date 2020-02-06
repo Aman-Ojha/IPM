@@ -1,0 +1,19 @@
+command,list
+get,  issue
+create, issue
+delete, issue
+assign, issue
+notify, issue
+create, issue link
+get, issue link
+delete, issue link
+create, issue link type
+delete, issue link type
+get, issue link type
+search, issue
+get, watchers
+add, watchers
+get, projects
+delete, projects
+create, projects
+get,  comments
